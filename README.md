@@ -23,12 +23,12 @@
 - Machine Learning: TensorFlow, Scikit-learn
 - Data Science: Pandas, Numpy
 ### **SAS**
--SAS VIYA
--SAS MINER
--SAS ENTERPRISE GUIDE
+-SAS: SAS Viya
+-SAS: SAS MINER
+-SAS: SAS ENTERPRISE GUIDE
 ### **SQL**
--ORACLE PL/SQL
--MS SQL
+-Oracle: PL/SQL
+-Microsoft: MS SQL
 
 
 <h2 align="center">👽 GitHub Stats 👽</h2>
