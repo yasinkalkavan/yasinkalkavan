@@ -50,6 +50,10 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/yasinkalkavan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
-<a href="https://yasinkalkavan.medium.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png"  height="30" width="40" /></a>
+<a href="https://yasinkalkavan.medium.com/" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*jfdwtvU6V6g99q3G7gq7dQ.png"  height="30" width="40" /></a>
+<a href="[https://yasinkalkavan.medium.com/](https://www.researchgate.net/profile/Yasin-Kalkavan)" target="blank"><img align="center" src="https://eesa.lbl.gov/wp-content/uploads/2019/07/ResearchGate.png"  height="30" width="40" /></a>
 </p>
+
+
+
 
